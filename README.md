@@ -1,0 +1,1 @@
+# rule clash for android
